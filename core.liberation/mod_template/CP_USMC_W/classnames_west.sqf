@@ -499,8 +499,9 @@ fast_air_vehicle = [
       ["USAF_C130J_Cargo",0,fast_air_vehicle_price_tier_1,0,GRLIB_perm_inf],
       ["USAF_C130J",0,fast_air_vehicle_price_tier_1,0,GRLIB_perm_inf],
       ["USAF_C17",0,fast_air_vehicle_price_tier_1,0,GRLIB_perm_inf],
+      ["USAF_AC130U",0,air_vehicle_price_tier_15,0,GRLIB_perm_inf],
     //RHS
-	    ["RHS_C130J_Cargo",0,fast_air_vehicle_price_tier_1,0,GRLIB_perm_inf],
+      ["RHS_C130J_Cargo",0,fast_air_vehicle_price_tier_1,0,GRLIB_perm_inf],
   // Jets
     // CUP
       ["CUP_B_AV8B_DYN_USMC",0,fast_air_vehicle_price_tier_5,0,GRLIB_perm_inf],
@@ -530,6 +531,8 @@ fast_air_vehicle = [
       // F-35
       ["FIR_F35B_Standard",0,fast_air_vehicle_price_tier_6,0,GRLIB_perm_inf],
      // F-22
+      ["FIR_F22",0,fast_air_vehicle_price_tier_6,0,GRLIB_perm_inf],
+     // Prowler
       ["FIR_F22",0,fast_air_vehicle_price_tier_6,0,GRLIB_perm_inf],
     // F-18 super hornet
       ["FIR_F18C",0,fast_air_vehicle_price_tier_6 ,0,GRLIB_perm_inf],
