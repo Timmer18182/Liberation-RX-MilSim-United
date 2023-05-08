@@ -100,6 +100,8 @@ opfor_vehicles = [
 	"rhs_bmd1r ",
 	"rhs_t72ba_tv",
 	"O_T_LSV_02_AT_F",
+	"I_LT_01_AA_F",
+        "I_LT_01_scout_F",
 	"O_T_APC_Tracked_02_AA_ghex_F"
 ];
 
@@ -112,6 +114,8 @@ opfor_vehicles_low_intensity = [
 	"O_T_APC_Tracked_02_AA_ghex_F",
 	"rhs_bmd1k",
 	"rhs_bmd1r ",
+	"I_LT_01_AA_F",
+        "I_LT_01_scout_F",
 	"O_T_LSV_02_armed_F",
 	"O_T_LSV_02_armed_F"
 ];
@@ -131,6 +135,8 @@ opfor_battlegroup_vehicles = [
 	"rhs_2s1_at_tv",
 	"O_T_LSV_02_armed_F",
 	"O_T_LSV_02_AT_F",
+	"I_LT_01_AA_F",
+        "I_LT_01_scout_F",
 	"O_T_APC_Tracked_02_AA_ghex_F",
 	"O_T_LSV_02_armed_F"
 ];
@@ -138,6 +144,8 @@ opfor_battlegroup_vehicles = [
 opfor_battlegroup_vehicles_low_intensity = [
 	"O_G_Offroad_01_AT_F",
 	"O_G_Offroad_01_armed_F",
+	"I_LT_01_AA_F",
+        "I_LT_01_scout_F",
 	"rhs_tigr_m_vv",
 	"rhs_tigr_sts_3camo_vv"
 ];
@@ -162,6 +170,8 @@ opfor_reinforcement_vehicles = [
 	"rhs_t72ba_tv",
 	"rhs_2s1_at_tv",
 	"rhs_kamaz5350_open_msv",
+	"I_LT_01_AA_F",
+        "I_LT_01_scout_F",
 	"rhs_tigr_sts_3camo_msv",
 	"O_T_APC_Tracked_02_AA_ghex_F",
 	"O_T_APC_Tracked_02_AA_ghex_F",
